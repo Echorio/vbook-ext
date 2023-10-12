@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "Buondua Image",
+    "author": "Echorio",
+    "version": 1,
+    "source": "https://buondua.com/",
+    "regexp": "([a-z]+.)*buondua.com/?start=[a-z0-9-]+(/?|.*?)",
+    "description": "Xem ảnh Buondua",
+    "language": "javascript",
+    "type": "comic",
+    "tag": "nsfw"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
