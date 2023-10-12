@@ -27,15 +27,15 @@
       "locale": "vi_VN"
     },
     {
-      "name": "Cứu Truyện",
+      "name": "ReadKomik",
       "author": "Echorio",
-      "path": "https://raw.githubusercontent.com/iChickn/vbook-extensions/main/cuutruyen2/plugin.zip",
-      "version": 3,
-      "source": "https://cuutruyen.net",
-      "icon": "https://raw.githubusercontent.com/iChickn/vbook-extensions/main/cuutruyen2/icon.png",
-      "description": "Đọc truyện trên trang Cứu Truyện - Thêm tab Genres",
+      "path": "https://raw.githubusercontent.com/iChickn/vbook-extensions/main/readkomik/plugin.zip",
+      "version": 4,
+      "source": "https://readkomik.com",
+      "icon": "https://raw.githubusercontent.com/iChickn/vbook-extensions/main/readkomik/icon.png",
+      "description": "Đọc truyện tranh trên trang ReadKomik",
       "type": "comic",
-      "locale": "vi_VN"
+      "locale": "en_US"
     }
   ]
 }
