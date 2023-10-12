@@ -2,7 +2,7 @@
   "metadata": {
     "name": "Cosplay Image",
     "author": "Echorio",
-    "version": 1,
+    "version": 2,
     "source": "https://hentai-cosplays.com",
     "regexp": "([a-z]+.)*hentai-cosplays.com/(image|story)/[a-z0-9-]+(/?|.*?)",
     "description": "Xem ảnh cosplay",
