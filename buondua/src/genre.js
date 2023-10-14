@@ -1,0 +1,28 @@
+function execute() {
+    return Response.success([
+        {title: "Hot", input: "https://buondua.com/hot/", script: "gen.js"},
+        {title: "Cosplay", input: "https://buondua.com/tag/cosplay-10688", script: "gen.js"},
+        {title: "AI Generated", input: "https://buondua.com/tag/ai-generated-11406", script: "gen.js"},
+        {title: "Xiuren", input: "https://buondua.com/tag/xiuren-7417", script: "gen.js"},
+        {title: "UGIRLS", input: "https://buondua.com/tag/ugirls-ai-you-wu-app-7435", script: "gen.js"},
+        {title: "FEILIN", input: "https://buondua.com/tag/feilin-8122", script: "gen.js"},
+        {title: "MiStar", input: "https://buondua.com/tag/mistar-7428", script: "gen.js"},
+        {title: "MyGirl", input: "https://buondua.com/tag/mygirl-7630", script: "gen.js"},
+        {title: "HuaYang", input: "https://buondua.com/tag/huayang-7444", script: "gen.js"},
+        {title: "IMISS", input: "https://buondua.com/tag/imiss-7566", script: "gen.js"},
+        {title: "MFStar", input: "https://buondua.com/tag/mfstar-7412", script: "gen.js"},
+        {title: "MiiTao", input: "https://buondua.com/tag/miitao-7710", script: "gen.js"},
+        {title: "XiaoYu", input: "https://buondua.com/tag/xiaoyu-7425", script: "gen.js"},
+        {title: "YouMi", input: "https://buondua.com/tag/youmi-7419", script: "gen.js"},
+        {title: "DJAWA", input: "https://buondua.com/tag/djawa-10855", script: "gen.js"},
+        {title: "Pure Media", input: "https://buondua.com/tag/pure-media-10876", script: "gen.js"},
+        {title: "XingYan", input: "https://buondua.com/tag/xingyan-9784", script: "gen.js"},
+        {title: "GIRLT", input: "https://buondua.com/tag/girlt-9090", script: "gen.js"},
+        {title: "BoLoli", input: "https://buondua.com/tag/bololi-8677", script: "gen.js"},
+        {title: "ArtGravia", input: "https://buondua.com/tag/artgravia-10830", script: "gen.js"},
+        {title: "Espacia Korea", input: "https://buondua.com/tag/espacia-korea-11157", script: "gen.js"},
+        {title: "SAINT Photolife", input: "https://buondua.com/tag/saint-photolife-10908", script: "gen.js"},
+        {title: "BLUECAKE", input: "https://buondua.com/tag/bluecake-10901", script: "gen.js"},
+        {title: "Loozy", input: "https://buondua.com/tag/loozy-10895", script: "gen.js"},
+    ]);
+}
