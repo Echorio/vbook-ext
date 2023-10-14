@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "author": "Echorio",
+    "description": "😎"
+  },
+  "data": [
+    {
+      "name": "Cosplay Image",
+      "author": "Echorio",
+      "path": "https://raw.githubusercontent.com/Echorio/vbook-ext/main/hentaicosplay/plugin.zip",
+      "version": 1,
+      "source": "https://hentai-cosplays.com",
+      "icon": "https://raw.githubusercontent.com/Echorio/vbook-ext/main/hentaicosplay/icon.png",
+      "description": "Xem ảnh cosplay",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "Buondua",
+      "author": "Echorio",
+      "path": "https://raw.githubusercontent.com/Echorio/vbook-ext/main/buondua/plugin.zip",
+      "version": 1,
+      "source": "https://buondua.com",
+      "icon": "https://raw.githubusercontent.com/Echorio/vbook-ext/main/buondua/icon.png",
+      "description": "Xem ảnh trên Buondua",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "Xỉuen",
+      "author": "Echorio",
+      "path": "https://raw.githubusercontent.com/Echorio/vbook-ext/main/xiuren/plugin.zip",
+      "version": 1,
+      "source": "https://xiuren.biz/",
+      "icon": "https://raw.githubusercontent.com/Echorio/vbook-ext/main/xiuren/icon.png",
+      "description": "Xem ảnh trên Xiuren",
+      "type": "comic",
+      "locale": "vi_VN"
+    }
+  ]
+}

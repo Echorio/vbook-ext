@@ -1,0 +1,21 @@
+{
+    "metadata": {
+      "name": "Xiuren",
+      "author": "Echorio",
+      "version": 1,
+      "source": "https://xiuren.biz/",
+      "regexp": "https://xiuren.biz/.+",
+      "description": "Tập Hợp Album của Xiuren...",
+      "locale": "vi_VN",
+      "tag": "nsfw",
+      "type": "comic"
+    },
+    "script": {
+      "home": "home.js",
+      "genre": "genre.js",
+      "detail": "detail.js",
+      "search": "search.js",
+      "toc": "toc.js",
+      "chap": "chap.js"
+    }
+  }
